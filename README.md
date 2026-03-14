@@ -16,7 +16,7 @@ I am a seasoned **Senior Applied Scientist** with nearly a decade of experience 
   - **Google Cloud Certified Professional ML Engineer**: Expert in Vertex AI, Kubeflow, and scalable ML infrastructure.
   - Cross-cloud proficiency in **AWS** (SageMaker) and **Azure** (ML Studio).
 - **🛡️ Specialized Domains**
-  - **Fraud Detection & Risk**: Developing predictive models to safeguard multi-billion dollar transactions.
+  - **Fraud Detection & Risk**: Developing predictive modeling to safeguard multi-billion dollar transactions.
   - **Healthcare Analytics**: Driving innovation at CVS Health through AI-driven patient care and operational automation.
   - **NLP & Conversational AI**: Building advanced text understanding and generation systems for global industries.
 
@@ -56,6 +56,7 @@ I am always eager to discuss **Enterprise AI Architecture**, **Agentic Workflows
 
 - 📍 **Location:** United States
 - 🔗 **LinkedIn:** [Girish Reddy Edula](https://www.linkedin.com/in/girishreddyedula/)
+- 📧 **Email:** [edulagirishreddy@gmail.com](mailto:edulagirishreddy@gmail.com)
 - 📧 **Open for**: Strategic AI/ML collaborations and research-driven product development.
 
 ---
