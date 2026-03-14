@@ -1,23 +1,62 @@
-# Hi there, I'm Girish Reddy Edula 👋🚀
+# 🚀 Hi there, I'm Girish Reddy Edula 👋
 
-I am a **Senior Applied Scientist** and **Google Cloud Certified Professional ML Engineer** with 9 years of experience in Artificial Intelligence, Machine Learning, and Generative AI. I am passionate about leveraging AI for automation, fraud detection, and business intelligence to drive innovation across diverse industries.
+### **Senior Applied Scientist @ CVS Health | GCP Certified Professional ML Engineer**
+**9+ Years of Excellence in Artificial Intelligence, Machine Learning & Generative AI**
 
-### 🚀 What I Do
-- **Generative AI & LLMs:** Specializing in Conversational AI, Natural Language Processing (NLP), and deploying Large Language Models for enterprise solutions.
-- **Agentic & RAG Frameworks:** Architecting sophisticated Retrieval-Augmented Generation (RAG) pipelines and Agentic workflows for complex, multi-step reasoning tasks.
-- **Cloud-Native ML:** Deploying highly scalable machine learning solutions utilizing AWS, GCP, and Azure infrastructures.
-- **Cross-Domain Analytics:** Proven track record of delivering high-impact AI products in Healthcare (CVS Health), Insurance/Banking (USAA), Pharma (Novartis), and Legal domains.
+I am a seasoned **Senior Applied Scientist** with nearly a decade of experience in architecting and deploying high-impact AI solutions. My expertise lies at the intersection of complex algorithmic research and enterprise-scale cloud deployment. I specialize in transforming massive datasets into strategic business intelligence, specifically within Healthcare, FinTech, and Legal domains.
 
-### 🎓 Background & Certifications
-- **Current Role:** Senior Applied Scientist at **CVS Health**.
-- **Certifications:** Google Cloud Professional Machine Learning Engineer (Valid till 2026), H2O.ai Certified.
-- **Education:** Master's in Data Science (INSOFE) & Master's in International Business (Hult International Business School).
+---
 
-### 🛠️ Tech Stack & Skills
-- **AI/ML:** Generative AI, RAG, Agentic AI, Deep Learning, Predictive Modeling
-- **Cloud & Data:** GCP, AWS, Azure, SQL, Big Data Analytics
-- **Soft Skills:** Team Leadership, Client Nuance Understanding, Strategy
+### 🛠️ **Core Expertise & Technical Prowess**
 
-### 📫 Let's Connect
-- **Location:** United States
-- Always open to discussing Enterprise AI architecture, Agentic Frameworks, and Cloud ML deployments!
+- **🧠 Generative AI & Large Language Models (LLMs)**
+  - Architecting sophisticated **Retrieval-Augmented Generation (RAG)** pipelines for high-accuracy enterprise knowledge retrieval.
+  - Designing **Agentic Frameworks** that leverage multi-step reasoning and autonomous tool-use to solve complex workflows.
+- **☁️ Cloud-Native Machine Learning**
+  - **Google Cloud Certified Professional ML Engineer**: Expert in Vertex AI, Kubeflow, and scalable ML infrastructure.
+  - Cross-cloud proficiency in **AWS** (SageMaker) and **Azure** (ML Studio).
+- **🛡️ Specialized Domains**
+  - **Fraud Detection & Risk**: Developing predictive models to safeguard multi-billion dollar transactions.
+  - **Healthcare Analytics**: Driving innovation at CVS Health through AI-driven patient care and operational automation.
+  - **NLP & Conversational AI**: Building advanced text understanding and generation systems for global industries.
+
+---
+
+### 💼 **Professional Impact**
+
+- **Senior Applied Scientist** @ **CVS Health**
+- **Prior Engagements**: Delivered transformative AI products for **USAA** (Insurance/Banking), **Novartis** (Pharma), and various legal firms.
+- **Strategy & Leadership**: Bridging the gap between technical science and client business nuances to deliver scalable, ROI-driven products.
+
+---
+
+### 🎓 **Education & Certifications**
+
+- **📜 Google Cloud Professional ML Engineer** (Certified through 2026)
+- **📜 H2O.ai Certified**
+- **🎓 Master's in Data Science** | *International School of Engineering (INSOFE)*
+- **🎓 Master's in International Business** | *Hult International Business School*
+
+---
+
+### ⚡ **Technical Stack**
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **AI/ML Frameworks** | PyTorch, TensorFlow, Scikit-learn, LangChain, LlamaIndex |
+| **Cloud Platforms** | **GCP (Expert)**, AWS, Azure |
+| **Big Data & Ops** | SQL, BigQuery, Spark, Docker, Kubernetes, CI/CD |
+| **Specializations** | RAG, Agentic AI, NLP, Predictive Modeling, MLOps |
+
+---
+
+### 📫 **Let's Connect & Collaborate**
+
+I am always eager to discuss **Enterprise AI Architecture**, **Agentic Workflows**, and the future of **Cloud-Native ML**.
+
+- 📍 **Location:** United States
+- 🔗 **LinkedIn:** [Girish Reddy Edula](https://www.linkedin.com/in/girishreddyedula/)
+- 📧 **Open for**: Strategic AI/ML collaborations and research-driven product development.
+
+---
+*“Empowering businesses through data-driven science and cloud-scale intelligence.”*
